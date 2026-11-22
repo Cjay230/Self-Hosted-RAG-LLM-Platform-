@@ -1,0 +1,4 @@
+component,setting,metric,value,date
+llm,"qwen2.5:3b, CPU, i7-13620H 16GB",prompt_eval_rate_tok_s,85.02,2026-11-22
+llm,"qwen2.5:3b, CPU, i7-13620H 16GB",eval_rate_tok_s,16.08,2026-11-22
+llm,"qwen2.5:3b, CPU, i7-13620H 16GB",load_duration_ms_warm,20.6,2026-11-22
