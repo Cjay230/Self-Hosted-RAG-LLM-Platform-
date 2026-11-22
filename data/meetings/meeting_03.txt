@@ -1,0 +1,56 @@
+MEETING 03 — Client Complaint Review
+Meridian Logistics · 23 February 2026 · Conference Room B
+Language: English / Arabic / French (code-switching)
+Attendees: Rana Khalil (Operations Director), Samir Haddad (Finance), Lina Aoun (IT), Georges Nassar (Warehouse)
+
+---
+
+RANA: Okay, Cedar Fresh. I'm guessing everyone's seen the email from their ops manager.
+
+GEORGES: Seen it? He called me twice yesterday. وصلنا أربعتعش شكوى منهن بس بشهر شباط.
+
+RANA: شو؟ بشهر واحد؟
+
+GEORGES: إيه، بشهر واحد. وتسعة منهن عن تأخير بالتسليم. The rest is paperwork, wrong invoice, that kind of thing.
+
+SAMIR: Before we go further, just so everyone knows what's on the table — Cedar Fresh بيدفعولنا تلت مية وعشرة آلاف دولار بالسنة. That's one contract. We can't lose it.
+
+RANA: I know, Samir. Lina, what was our on-time rate for them?
+
+LINA: Franchement, c'est pas brillant. En janvier, quatre-vingt-un pour cent à l'heure. Our target is ninety-five.
+
+RANA: Okay. So why? Is it the trucks, is it Delta —
+
+LINA: No, no, honestly, it's mostly us. The trucks arrive, more or less. المشكلة إنو نظام التتبع القديم عم يعطي ETAs غلط. The client sees "arriving ten a.m.", the truck is still in Chtaura, and they plan their staff around the wrong time.
+
+GEORGES: يعني بيفكروا إنو التأخير أكبر من ما هو.
+
+RANA: Okay. So it's on our side. Lina, the migration — you're still on for March?
+
+LINA: About that. لازم نأخّر الـ deadline تبع الـ migration أسبوعين. The contractor started late and —
+
+RANA: أسبوعين؟
+
+LINA: إيه، أسبوعين. That's the real number, I'd rather say it now than in March.
+
+RANA: Fine. But not a day more. Now — the client. What do we give them?
+
+SAMIR: I'd offer a credit. بعطيهن أربعة آلاف ومتين دولار credit على فاتورة شباط.
+
+GEORGES: قدّيش؟ هيدا كتير —
+
+SAMIR: It's roughly what the late loads cost them in staff overtime, I checked. Credit, not cash.
+
+RANA: متفقين. أربعة آلاف ومتين، credit على فاتورة شباط. وأنا بحكي مع الـ ops manager تبعهن شخصياً.
+
+SAMIR: When?
+
+RANA: Avant mercredi, le vingt-cinq. Avant que la facture parte.
+
+LINA: And until the new system is live, they still can't trust the ETAs —
+
+RANA: Right. So until the migration's done, someone sends them a manual status report every day. Georges?
+
+GEORGES: أنا؟ طيب — ماشي. أنا ببعتلن ياه، كل يوم الصبح قبل الساعة تسعة.
+
+RANA: Good. That's it for today.

@@ -1,0 +1,56 @@
+MEETING 01 — Q1 Operations Review
+Meridian Logistics · 12 January 2026 · Conference Room B
+Language: English
+Attendees: Rana Khalil (Operations Director), Samir Haddad (Finance), Lina Aoun (IT), Georges Nassar (Warehouse)
+
+---
+
+RANA: Alright, let's start. Samir, can you take us through the numbers first?
+
+SAMIR: Sure. The Q1 logistics budget came in at one hundred and eighty-five thousand dollars. That's the approved figure, it's final. The bigger issue is fuel — fuel costs went up eight percent last quarter and we didn't plan for that.
+
+RANA: Eight percent. Is that going to continue?
+
+SAMIR: Hard to say. I've assumed it holds flat for now.
+
+GEORGES: And the warehouse expansion? I need to know whether I'm planning for it.
+
+RANA: We discussed it. We're deferring the warehouse expansion to Q3. There isn't room in the Q1 budget and I'd rather do it properly than half-fund it.
+
+GEORGES: Fine. Q3, understood.
+
+RANA: Next, the shipping vendor. We had two proposals. Lina, you reviewed both?
+
+LINA: I did. Delta Freight and Caspian Shipping. Delta is slightly more expensive but their average transit time is six days. Caspian came in cheaper, but their average transit time is twelve days, and for our perishable clients that just doesn't work.
+
+RANA: So we go with Delta Freight. Everyone agree? Good — Delta Freight it is. We rejected Caspian on the twelve-day transit time, let's make sure that's in the minutes so nobody reopens it in March.
+
+SAMIR: Noted.
+
+RANA: Lina, the tracking system. Where are we?
+
+LINA: We need to migrate off the old platform. I'll own the tracking system migration.
+
+RANA: Good. When?
+
+LINA: Give me until the fourteenth of March. That's realistic, anything earlier is not.
+
+RANA: Fourteenth of March, you own it. Georges, headcount?
+
+GEORGES: I need drivers. We're turning down routes.
+
+RANA: How many?
+
+GEORGES: Five would be comfortable.
+
+SAMIR: Five isn't in the budget.
+
+RANA: Three. We're approving three new drivers for this quarter, and we revisit in Q2 if the route volume holds.
+
+GEORGES: I'll take three.
+
+RANA: Last item — insurance renewal is coming up. Samir, that's yours.
+
+SAMIR: I'll handle the insurance renewal, yes.
+
+RANA: Good. Let's put the next review on the second of February. Same room. Thanks everyone.

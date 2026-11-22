@@ -1,0 +1,66 @@
+MEETING 04 — Warehouse Safety Incident
+Meridian Logistics · 16 March 2026 · Warehouse Site Office
+Language: English / Arabic / French (code-switching)
+Attendees: Rana Khalil (Operations Director), Samir Haddad (Finance), Lina Aoun (IT), Georges Nassar (Warehouse)
+
+---
+
+RANA: Okay. I want to do this properly, so Georges, from the start. What happened?
+
+GEORGES: الخميس، تناعش آذار، حوالي الساعة أربعة بعد الضهر. One of the racks in aisle C came down. Partly came down — the top two levels.
+
+LINA: Was anyone —
+
+GEORGES: Karim was underneath. He's okay, الحمدلله, but his shoulder — الحكيم عطاه عشر أيام إجازة.
+
+SAMIR: عشر أيام؟
+
+GEORGES: إيه. He's home, he's fine, he's annoyed mostly.
+
+RANA: Thank God. Okay. Why did it collapse?
+
+GEORGES: Because we overloaded it. هيدا الرف مصنّف لألف كيلو بكل طابق. We had pallets on it that were way over that.
+
+RANA: And why were we putting that much on it?
+
+GEORGES: لأنو ما في محل يا رنا. نحنا على سبعة وتسعين بالمية من المساحة. Every time a truck comes in, the guys stack wherever there's a gap.
+
+SAMIR: ما كنت عارف إنو الوضع هيك.
+
+GEORGES: I've been saying it since January —
+
+RANA: You have. You have. So — the expansion. In January we pushed it to later in the year.
+
+SAMIR: Rana, if you're about to say what I think —
+
+RANA: Oui. On avance l'extension de l'entrepôt d'un trimestre. Samir, je sais.
+
+SAMIR: The money —
+
+RANA: La raison est simple : on n'a pas la place, c'est le manque de place qui a poussé les gens à surcharger les racks, et c'est pour ça que Karim est chez lui.
+
+SAMIR: Okay. Okay. I'll rework the numbers. Mais un trimestre, pas plus.
+
+RANA: Fine. What about the damage?
+
+GEORGES: تصليح الرفوف — إجاني الـ quote اليوم الصبح — ستة آلاف وتمن مية دولار. Parts and labour.
+
+SAMIR: Okay, هيدي بتطلع من الـ maintenance.
+
+LINA: Et les chariots élévateurs ? Quelqu'un m'a dit qu'il y en a un qui a été touché.
+
+GEORGES: Deux chariots élévateurs sont hors service. واحد انضرب بالرف، والتاني عم نفحصه احتياطاً.
+
+RANA: So both stay parked until they're checked. I also want a full safety audit of the warehouse. Every rack, every aisle. Who owns it?
+
+GEORGES: أنا. هيدا الـ floor تبعي، أنا مسؤول عن الـ safety audit.
+
+RANA: Deadline?
+
+GEORGES: بدي لـ تلاتة نيسان. I want to do every aisle, not just C.
+
+RANA: Okay, done. Lina, can the new tracking system log rack loads?
+
+LINA: Not yet, that's a later phase. I'll look into it.
+
+RANA: Okay. Thank you, Georges. And someone send Karim something from all of us.
